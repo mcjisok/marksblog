@@ -16,7 +16,7 @@ npm run build
 # 进入生成的文件夹
 cd $dist_path
 
-git init
+# git init
 git add -A
 git commit -m "deploy, $commit_info"
 git push  $push_addr HEAD:$push_branch
