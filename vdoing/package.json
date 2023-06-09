@@ -23,12 +23,6 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "maintainers": [
-    {
-      "name": "Evan xu",
-      "email": "894072666@qq.com"
-    }
-  ],
   "dependencies": {
     "@better-scroll/core": "^2.0.0-beta.6",
     "@better-scroll/slide": "^2.0.0-beta.6",

@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: Evan's blog
+heroText: Mcanjia's blog
 tagline: Web前端技术博客，积跬步以至千里，致敬每个爱学习的你。
 # actionText: 立刻进入 →
 # actionLink: /web/
@@ -9,12 +9,12 @@ tagline: Web前端技术博客，积跬步以至千里，致敬每个爱学习�
 
 features: # 可选的
   - title: 前端
-    details: JavaScript、ES6、Vue框架等前端技术
+    details: JavaScript、ES6、Vue框架等前端技术321
     link: /web/ # 可选
     imgUrl: /img/web.png # 可选
-  - title: 页面
-    details: html(5)/css(3)，前端页面相关技术
-    link: /ui/
+  - title: AI相关
+    details: AI前沿相关技术
+    link: /ai/
     imgUrl: /img/ui.png
   - title: 技术
     details: 技术文档、教程、技巧、总结等文章
@@ -31,7 +31,7 @@ features: # 可选的
 <!-- 小熊猫 -->
 <!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
 
-<!--
+<!-- 
 ## 关于
 
 ### 📚Blog
@@ -74,13 +74,13 @@ features: # 可选的
 }
 </style>
 ```
-:::
+::: -->
 
 
 ## :email: 联系
 
-- **WeChat or QQ**: <a href="tencent://message/?uin=894072666&Site=&Menu=yesUrl" class='qq'>894072666</a>
-- **Email**: <a href="mailto:894072666@qq.com">894072666@qq.com</a>
-- **GitHub**: <https://github.com/xugaoyi>
+- **WeChat or QQ**: <a href="tencent://message/?uin=353750533&Site=&Menu=yesUrl" class='qq'>353750533</a>
+- **Email**: <a href="mailto:353750533@qq.com">353750533@qq.com</a>
+- **GitHub**: <https://github.com/mcjisok>
 
-</br>  -->
+</br> 
