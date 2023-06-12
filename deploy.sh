@@ -24,4 +24,4 @@ git commit -m "deploy, $commit_info"
 git push -f https://github.com/mcjisok/marksblog.git master:gh-pages
 
 cd -
-# rm -rf $dist_path
+rm -rf $dist_path
