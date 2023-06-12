@@ -11,15 +11,17 @@ dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
 push_branch=gh-pages # 推送的分支
 
 # 生成静态文件
-# npm run build
+npm run build
 
 # 进入生成的文件夹
-cd $dist_path
+# cd $dist_path
+cd docs/.vuepress/dist
 
-# git init
+git init
 git add -A
 git commit -m "deploy, $commit_info"
-git push  $push_addr HEAD:$push_branch
+# git push -f $push_addr HEAD:$push_branch
+git push -f https://github.com/mcjisok/marksblog.git master:gh-pages
 
 cd -
-rm -rf $dist_path
+# rm -rf $dist_path
